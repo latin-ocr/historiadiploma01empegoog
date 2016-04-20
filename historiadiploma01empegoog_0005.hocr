@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiadiploma01empegoog_0005.png"; bbox 0 0 4525 6031; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 894 1912 3331 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 894 1912 3331 2209">
+     <span class='ocr_line' id='line_1_1' title="bbox 894 1912 3331 2209; baseline 0 -60"><span class='ocrx_word' id='word_1_1' title='bbox 894 1973 2145 2209; x_wconf 74' lang='lat' dir='ltr'>Ffllnfflucl</span> <span class='ocrx_word' id='word_1_2' title='bbox 2276 1912 3331 2157; x_wconf 75' lang='lat' dir='ltr'>SECUNDI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1329 2334 2902 2498">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1329 2334 2902 2498">
+     <span class='ocr_line' id='line_1_2' title="bbox 1329 2334 2902 2403; baseline 0.002 -17"><span class='ocrx_word' id='word_1_3' title='bbox 1329 2334 2902 2403; x_wconf 66' lang='grc' dir='ltr'><strong>ιιιιιιιιιιιιιιιιιιιιιιιιιιιιιι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1741 2442 2482 2498; baseline 0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 1741 2442 2482 2498; x_wconf 65' lang='grc' dir='ltr'><strong>ιιιιιιιιιιιιι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1146 2670 3062 2786">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1146 2670 3062 2786">
+     <span class='ocr_line' id='line_1_4' title="bbox 1146 2670 3062 2786; baseline 0.002 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1146 2670 1878 2786; x_wconf 81' lang='lat' dir='ltr'>HISTORIA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1977 2671 3062 2786; x_wconf 81' lang='lat' dir='ltr'><strong>DIPLOMATICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
